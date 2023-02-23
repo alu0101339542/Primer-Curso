@@ -1,0 +1,4 @@
+vhdl work "ffD_reset.vhd"
+vhdl work "contador.vhd"
+vhdl work "../../Prac2/dec7seg.vhd"
+vhdl work "sistema.vhd"

@@ -1,0 +1,1 @@
+vhdtdtfi -prj contador203 -o "/home/dani/Desktop/Segundo cuatri/Sed/Prac4/contador203/ffD_reset.vhi" -module ffD_reset -template /opt/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ../../Prac3/contador/ffD_reset.vhd 

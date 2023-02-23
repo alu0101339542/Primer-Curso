@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "/home/dani/Desktop/Segundo cuatri/Sed/Prac4/contador203/contador.xst" -ofn "/home/dani/Desktop/Segundo cuatri/Sed/Prac4/contador203/contador.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc contador203.ucf -p xc7a100t-csg324-1 "contador.ngc" contador.ngd  
+xst -intstyle ise -ifn "/home/dani/Desktop/Segundo cuatri/Sed/Prac4/contador203/contador.xst" -ofn "/home/dani/Desktop/Segundo cuatri/Sed/Prac4/contador203/contador.syr" 

@@ -1,0 +1,29 @@
+Command line:
+   contador203_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  43955
+
+Wed May 13 09:44:51 2020
+
+
+ Elaboration Time: 0.01 sec
+
+ Current Memory Usage: 196.952 Meg
+
+ Total Signals          : 38
+ Total Nets             : 17
+ Total Signal Drivers   : 14
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 13
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 378
+Total Line Count : 38
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 272.454 Meg
+
+Wed May 13 11:22:12 2020
+

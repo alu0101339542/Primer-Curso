@@ -1,0 +1,4 @@
+vhdl work "ffT_reset.vhd"
+vhdl work "../../Prac3/contador/ffD_reset.vhd"
+vhdl work "contador203.vhd"
+vhdl work "contador203_tb.vhd"

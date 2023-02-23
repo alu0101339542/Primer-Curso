@@ -1,0 +1,3 @@
+work	"../../Prac3/contador/ffD_reset.vhd"
+work	"contador203.vhd"
+work	"ffT_reset.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/dani/Desktop/Segundo cuatri/Sed/Prac3/contador/contador_tb_isim_beh.exe" -prj "/home/dani/Desktop/Segundo cuatri/Sed/Prac3/contador/contador_tb_beh.prj" "work.contador_tb" 

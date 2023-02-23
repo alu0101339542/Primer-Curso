@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="NgdBuild" num="789" delta="new" >&quot;<arg fmt="%s" index="2">contador203.ucf</arg>&quot; Line <arg fmt="%i" index="1">1</arg>: &apos;<arg fmt="%s" index="3">CLOCK_DEDICARED_ROUTE</arg>&apos; is an invalid constraint name.
+</msg>
+
+</messages>
+
